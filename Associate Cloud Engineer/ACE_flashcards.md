@@ -1,8 +1,5 @@
 # Associate Cloud Engineer Study Flashcards
 
-* Author: Duncan Calvert
-* Last Modified: 12/26/24
-
 ## Flashcard Questions
 
 | No. | Questions |
